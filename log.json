@@ -6,3 +6,12 @@
 {"guess": 8, "target": 8, "time": "2024-02-27 13:26:15"}
 {"guess": 7, "target": 7, "time": "2024-02-27 13:27:36"}
 {"guess": 2, "target": 2, "lower_bound": 1, "upper_bound": 9, "time": "2024-02-27 13:29:19"}
+{"guess": 1, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:05"}
+{"guess": 1, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:08"}
+{"guess": 11, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:10"}
+{"guess": 8, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:12"}
+{"guess": 7, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:13"}
+{"guess": 4, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:14"}
+{"guess": 2, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:16"}
+{"guess": 1, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:18"}
+{"guess": 0, "target": 0, "lower_bound": 0, "upper_bound": 9, "time": "2024-02-27 13:45:20"}
